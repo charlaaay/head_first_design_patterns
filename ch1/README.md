@@ -1,0 +1,3 @@
+The goal here is to inject the duck class with a quack behavior and a fly behavior. Since these behaviors can change frequently from duck to duck, it is best to use composition and assign a particular behavior to each instance of a duck during run time.
+
+This example uses the strategy pattern. The strategy pattern encapsulates a family of "behaviors" or "algorithms" and makes the interchangeable among the implementing class. For example, flying, not flying, and rocket-powered flying were all different types of algorithms that lived in the FlyBehavior class, and they are easily made interchangeable by using the Duck class' mutator, setFlyBehavior
