@@ -1,0 +1,1 @@
+This design pattern is used to notify subscribers when the upstream source has changed. In this example, the stats manager detects a new player stat and alerts the PlayerStatTracker application that the new stat was created.
