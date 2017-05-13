@@ -1,0 +1,1 @@
+The decorator pattern is useful for adding new functionality to objects through the use of composition. In this example, a clown decorator is used to extend the person class without modifying any of the person source code.
