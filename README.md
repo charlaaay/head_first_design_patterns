@@ -1,2 +1,1 @@
-# head_first_design_patterns
-Examples from head_first_design patterns
+The design patterns in this repo were written as I read through "Head First Design Patterns". Some of the (good) examples were taken from the book and I wrote others myself.
