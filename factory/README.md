@@ -1,0 +1,1 @@
+The factory pattern is used in order to delegate instantiations to another class. This is useful when you want to have subclasses of a factories because you can easily swap-in and swap-out different factories.
